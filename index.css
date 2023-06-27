@@ -1,0 +1,15 @@
+*{
+  padding: 0px;
+  margin: 0px;
+}
+.par{
+  background-color: red;
+  width: 50vw;
+  height: 50vh;
+  margin-top: 25vh;
+  margin-bottom: 25vh;
+  margin-left: 25vw;
+  margin-right: 25vw;
+
+}
+
